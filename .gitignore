@@ -1,0 +1,8 @@
+core
+.gdb_history
+*.tar.*
+*.rar
+*.zip
+_*
+*_unfinished
+*_patched
